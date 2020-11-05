@@ -27,6 +27,10 @@ public class Sand extends World
     private void prepare()
     {
         seal seal = new seal();
+<<<<<<< HEAD
+        addObject(seal,83,214);
+=======
         addObject(seal,357,248);
+>>>>>>> b0b22f3a5b10cd52a8451a37d3d947c7b2ce01bd
     }
 }
