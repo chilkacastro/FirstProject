@@ -27,7 +27,11 @@ public class Sand extends World
     private void prepare()
     {
         seal seal = new seal();
+<<<<<<< HEAD
+        addObject(seal,83,214);
+=======
         addObject(seal,357,248);
+<<<<<<< HEAD
         Cactus cactus = new Cactus();
         addObject(cactus,46,129);
         Cactus cactus2 = new Cactus();
@@ -38,5 +42,8 @@ public class Sand extends World
         addObject(cactus4,438,314);
         Cactus cactus5 = new Cactus();
         addObject(cactus5,264,122);
+=======
+>>>>>>> b0b22f3a5b10cd52a8451a37d3d947c7b2ce01bd
+>>>>>>> 9a3340e1aa485ef53a7836bbedabab81ef2082f7
     }
 }
