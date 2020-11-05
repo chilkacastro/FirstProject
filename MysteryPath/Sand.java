@@ -28,5 +28,15 @@ public class Sand extends World
     {
         seal seal = new seal();
         addObject(seal,357,248);
+        Cactus cactus = new Cactus();
+        addObject(cactus,46,129);
+        Cactus cactus2 = new Cactus();
+        addObject(cactus2,504,114);
+        Cactus cactus3 = new Cactus();
+        addObject(cactus3,127,326);
+        Cactus cactus4 = new Cactus();
+        addObject(cactus4,438,314);
+        Cactus cactus5 = new Cactus();
+        addObject(cactus5,264,122);
     }
 }
