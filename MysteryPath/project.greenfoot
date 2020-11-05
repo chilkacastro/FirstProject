@@ -4,6 +4,7 @@ class.seal.image=seal.png
 dependency1.from=Sand
 dependency1.to=seal
 dependency1.type=UsesDependency
+<<<<<<< HEAD
 editor.fx.0.height=739
 editor.fx.0.width=816
 editor.fx.0.x=275
@@ -11,6 +12,15 @@ editor.fx.0.y=-4
 height=744
 package.numDependencies=1
 package.numTargets=2
+=======
+editor.fx.0.height=838
+editor.fx.0.width=1550
+editor.fx.0.x=-7
+editor.fx.0.y=-7
+height=838
+package.numDependencies=1
+package.numTargets=3
+>>>>>>> b0b22f3a5b10cd52a8451a37d3d947c7b2ce01bd
 project.charset=UTF-8
 publish.hasSource=false
 publish.locked=true
@@ -33,14 +43,30 @@ target1.width=80
 target1.x=0
 target1.y=0
 target2.height=50
+<<<<<<< HEAD
 target2.name=seal
+=======
+target2.name=Brick
+>>>>>>> b0b22f3a5b10cd52a8451a37d3d947c7b2ce01bd
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=80
 target2.x=0
 target2.y=0
+<<<<<<< HEAD
 version=3.0.0
 width=1382
+=======
+target3.height=50
+target3.name=seal
+target3.showInterface=false
+target3.type=ClassTarget
+target3.width=80
+target3.x=0
+target3.y=0
+version=3.0.0
+width=1550
+>>>>>>> b0b22f3a5b10cd52a8451a37d3d947c7b2ce01bd
 world.lastInstantiated=Sand
 xPosition=0
 yPosition=0

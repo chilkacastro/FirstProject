@@ -14,6 +14,10 @@ public class seal extends Actor
      */
     public void act() 
     {
+<<<<<<< HEAD
         turn (2); 
+=======
+        move(10);
+>>>>>>> b0b22f3a5b10cd52a8451a37d3d947c7b2ce01bd
     }    
 }
