@@ -1,20 +1,16 @@
 #Greenfoot project file
-<<<<<<< HEAD
-class.seal.image=seal.png
-=======
 class.Sand.image=cell.jpg
->>>>>>> dc2c1219dc7bbee19b429f78e8e1bfd16a951892
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
-<<<<<<< HEAD
-height=400
-=======
+class.seal.image=seal.png
+dependency1.from=Sand
+dependency1.to=seal
+dependency1.type=UsesDependency
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=275
+editor.fx.0.y=-4
 height=744
->>>>>>> dc2c1219dc7bbee19b429f78e8e1bfd16a951892
-package.numDependencies=0
-package.numTargets=1
+package.numDependencies=1
+package.numTargets=2
 project.charset=UTF-8
 publish.hasSource=false
 publish.locked=true
@@ -30,24 +26,21 @@ readme.x=10
 readme.y=10
 simulation.speed=50
 target1.height=50
-<<<<<<< HEAD
-target1.name=seal
-=======
 target1.name=Sand
->>>>>>> dc2c1219dc7bbee19b429f78e8e1bfd16a951892
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=80
 target1.x=0
 target1.y=0
+target2.height=50
+target2.name=seal
+target2.showInterface=false
+target2.type=ClassTarget
+target2.width=80
+target2.x=0
+target2.y=0
 version=3.0.0
-<<<<<<< HEAD
-width=700
-xPosition=244
-yPosition=217
-=======
 width=1382
 world.lastInstantiated=Sand
 xPosition=0
 yPosition=0
->>>>>>> dc2c1219dc7bbee19b429f78e8e1bfd16a951892
