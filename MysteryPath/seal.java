@@ -15,7 +15,7 @@ public class seal extends Actor
     public void act() 
     {
         turn (2); 
-        move(10);
+        move(20);
 
     }    
 }

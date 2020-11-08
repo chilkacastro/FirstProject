@@ -1,27 +1,15 @@
 #Greenfoot project file
-<<<<<<< HEAD
 class.seal.image=seal.png
+dependency1.from=Sand
+dependency1.to=seal
+dependency1.type=UsesDependency
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
 height=510
-package.numDependencies=0
-package.numTargets=2
-=======
-class.Sand.image=cell.jpg
-class.seal.image=seal.png
-dependency1.from=Sand
-dependency1.to=seal
-dependency1.type=UsesDependency
-editor.fx.0.height=27
-editor.fx.0.width=159
-editor.fx.0.x=-25600
-editor.fx.0.y=-25600
-height=27
 package.numDependencies=1
 package.numTargets=3
->>>>>>> 24a319ec7e097ba8c97ed3783846a877f1916be3
 project.charset=UTF-8
 publish.hasSource=false
 publish.locked=true
@@ -44,22 +32,12 @@ target1.width=80
 target1.x=0
 target1.y=0
 target2.height=50
-<<<<<<< HEAD
-target2.name=seal
-=======
 target2.name=Brick
->>>>>>> 24a319ec7e097ba8c97ed3783846a877f1916be3
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=80
 target2.x=0
 target2.y=0
-<<<<<<< HEAD
-version=3.0.0
-width=700
-xPosition=19
-yPosition=100
-=======
 target3.height=50
 target3.name=seal
 target3.showInterface=false
@@ -68,8 +46,6 @@ target3.width=80
 target3.x=0
 target3.y=0
 version=3.0.0
-width=159
-world.lastInstantiated=Sand
-xPosition=0
-yPosition=0
->>>>>>> 24a319ec7e097ba8c97ed3783846a877f1916be3
+width=700
+xPosition=19
+yPosition=100
