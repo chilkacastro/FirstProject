@@ -1,11 +1,11 @@
 #Greenfoot project file
 class.Level1.image=city.png
 class.car.image=dog.png
-editor.fx.0.height=708
-editor.fx.0.width=814
-editor.fx.0.x=445
-editor.fx.0.y=39
-height=838
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+height=788
 package.numDependencies=0
 package.numTargets=2
 project.charset=UTF-8
@@ -37,7 +37,7 @@ target2.width=80
 target2.x=0
 target2.y=0
 version=3.0.0
-width=1550
+width=1386
 world.lastInstantiated=Level1
 xPosition=0
-yPosition=0
+yPosition=64
