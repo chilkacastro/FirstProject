@@ -1,2 +1,2 @@
-# Mystery_Path
+# Toby's Adventure
 Greenfoot Game Project
